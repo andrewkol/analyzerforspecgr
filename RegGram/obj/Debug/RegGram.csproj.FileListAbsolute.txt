@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\RegGram\RegGram\bin\Debug\RegGram.exe.config
+C:\Users\andre\source\repos\RegGram\RegGram\bin\Debug\RegGram.exe
+C:\Users\andre\source\repos\RegGram\RegGram\bin\Debug\RegGram.pdb
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.Form1.resources
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.Properties.Resources.resources
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.exe
+C:\Users\andre\source\repos\RegGram\RegGram\obj\Debug\RegGram.pdb
